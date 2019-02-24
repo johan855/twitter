@@ -7,3 +7,4 @@ Features
 - Load latest tweets of specified account
 - Run and display sentiment analysis of latest tweets
 - Re-tweet relevant posts between accounts using sentiment analysis
+- Automatically respond to tweet answers
